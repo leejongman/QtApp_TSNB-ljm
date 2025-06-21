@@ -1,0 +1,5 @@
+module ProcessBar_Simple
+typeinfo appProcessBar_Simple.qmltypes
+prefer :/qt/qml/ProcessBar_Simple/
+Main 1.0 Main.qml
+

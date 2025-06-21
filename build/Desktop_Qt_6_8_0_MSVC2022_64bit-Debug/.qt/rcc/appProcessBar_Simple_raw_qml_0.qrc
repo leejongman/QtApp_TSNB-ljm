@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ProcessBar_Simple/">
+    <file alias="Main.qml">D:/C++_QT/ProcessBar_Simple/Main.qml</file>
+  </qresource>
+</RCC>
+

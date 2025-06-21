@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e3fef3941aecb6a0a76a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProcessBar_Simple",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-369c621dc31f9074059d.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4a03534f14ba60c36932.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-fe5057d3a6c2a27b3323.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c90599d6b47b2229b169.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-528fe16241bb1b6472bc.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple-Debug-cab90beb2730820834bd.json",
+					"name" : "appProcessBar_Simple",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_autogen-Debug-4071fbdf75bd805d5913.json",
+					"name" : "appProcessBar_Simple_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_autogen_timestamp_deps-Debug-ba74d20dd1d94de1a97e.json",
+					"name" : "appProcessBar_Simple_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_qmlimportscan-Debug-0484b910bceee69b7215.json",
+					"name" : "appProcessBar_Simple_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_qmllint-Debug-4e7bba417976abaecc37.json",
+					"name" : "appProcessBar_Simple_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_qmllint_json-Debug-ee9fed2154ba83f156c8.json",
+					"name" : "appProcessBar_Simple_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_qmllint_module-Debug-266b485c000b30163cc7.json",
+					"name" : "appProcessBar_Simple_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_qmltyperegistration-Debug-76550f3b8f85a4c5bce0.json",
+					"name" : "appProcessBar_Simple_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appProcessBar_Simple_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appProcessBar_Simple_tooling-Debug-4f37face1893e531a40a.json",
+					"name" : "appProcessBar_Simple_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appProcessBar_Simple_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appProcessBar_Simple_aotstats_targets-Debug-aa70838bd0c20507e3e5.json",
+					"name" : "module_appProcessBar_Simple_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++_QT/ProcessBar_Simple/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug",
+		"source" : "D:/C++_QT/ProcessBar_Simple"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
